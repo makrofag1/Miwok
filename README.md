@@ -3,7 +3,7 @@ Miwok app was created basing on Udacity Android Tutorial in order to learn basic
 App helps us to get familiar with language of Miwok tribe whose members are native Americans.
 App contains words from four groups: Numbers, Family Members, Colors and Phrases. Words in each group are presented as an elements of scrollable list.
 There is also a play button for each word for playing pronunciation.
-Below app screens are presented.
+App screens are presented below.
 
 
 # ![image](https://user-images.githubusercontent.com/37403395/56081989-d1dfb780-5e13-11e9-986d-eef2a1bed05c.png)
